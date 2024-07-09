@@ -1,0 +1,39 @@
+.container 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  box-shadow: 20px 20px 20px 20px rgba(240, 6, 6, 0.848);
+  margin-top: 80PX;
+  width: 550PX;
+
+}
+
+
+#result
+{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #f03144;
+    background-color: #242424;
+    padding: 10px;
+    border-radius: 55px;
+    margin-top: 20px;
+    height: 10vh;
+}
+body{
+    
+        background-image: url('2.avif');
+        background-size: cover;
+        background-position: center;
+        font-family: 'Arial', sans-serif;
+        color: #585151;
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
